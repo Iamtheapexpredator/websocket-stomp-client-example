@@ -6,7 +6,9 @@ The stomp protocol is a Simple Text Orientated Messaging Protocol. It is built o
 
 Environment.
 ------------
-The listener can be built with pip, setuptools, pipenv or poetry. Just go to the main directory and run the environment.
+The listener can be built with pip, setuptools, pipenv or poetry. Just go to the main directory and run the environment. The environment can also just ba accessed by downloading the tarball and running.
+..codeblock:: bash
+  pip install
 
 Running the Listener:
 -------------
